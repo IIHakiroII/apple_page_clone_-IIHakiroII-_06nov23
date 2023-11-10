@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Uneweb-blue)
 
-# Project Name
+# Apple Page Clone
 
 > One paragraph statement about the project.
 
@@ -16,7 +16,7 @@ Additional description about the project and its features.
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://iihakiroii.github.io/apple_page_clone_-IIHakiroII-_06nov23/)
 
 
 ## Getting Started
@@ -43,8 +43,6 @@ To get a local copy up and running follow these simple example steps.
 
 ## Authors
 
-👤 **Arístides José Molina Pérez**
-
 - GitHub: [@aristides1000](https://github.com/aristides1000)
 - Twitter: [@aristides_1000](https://twitter.com/aristides_1000)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/aristides-molina/)
@@ -59,7 +57,7 @@ To get a local copy up and running follow these simple example steps.
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](issues/).
+Feel free to check the [issues page](https://github.com/IIHakiroII/apple_page_clone_-IIHakiroII-_06nov23/issues).
 
 ## Show your support
 
