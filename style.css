@@ -39,7 +39,7 @@ body {
     width: 100px;
     height: 28px;
     text-align: center;
-    background: -webkit-gradient(linear, 0 100%, 0 0, from(#666), color-stop(0.5, #5e5e5e), color-stop(0.51; #707070)), to (#808080);
+    background: -webkit-gradient(linear, 0 100%, 0 0, from(#666), color-stop(0.5, #5e5e5e), color-stop(0.51, #707070), to (#808080));
     background: -moz-linear-gradient(bottom, #666 0, #5e5e5e 50%, #707070 51%, #808080 100%);
     background: -o-linear-gradient(bottom, #666 0, #5e5e5e %50, #707070 51%, #808080 100%);
 }
@@ -66,7 +66,7 @@ body {
 }
 
 .navbar > ul > li :hover {
-    background-image: linear-gradient( #darkgrey, #black)
+    background-image: linear-gradient( #darkgrey, #black);
 }
 
 .navbar > ul > li > a > span {
@@ -78,12 +78,19 @@ body {
 }
 
 .apple-icon {
-    width: 25px;
     height: 20px;
+    width: 20px;
+
+}
+
+	
+.first-icon {
+    width: 25px;
+    height: 25px;
     overflow: hidden;
     border-top-left-radius: 6px;
     border-bottom-left-radius: 6px;
-}
+  }
 
 .navbar > ul > li > .search-bar {
     border-top-right-radius: 6px;
@@ -95,9 +102,9 @@ body {
     width: 110px;
     margin-top: 2px;
     border-radius: 6px;
-    background: -webkit-gradient(linear, 0 100%, 0 0, from(#666), color-stop(0.5, #5e5e5e), color-stop(0.51; #707070)), to (#808080);
+    background: -webkit-gradient(linear, 0 100%, 0 0, from(#666), color-stop(0.5, #5e5e5e), color-stop(0.51, #707070), to (#808080));
     background: -moz-linear-gradient(bottom, #666 0, #5e5e5e 50%, #707070 51%, #808080 100%);
-    background: -o-linear-gradient(bottom, #666 0, #5e5e5e %50, #707070 51%, #808080 100%)
+    background: -o-linear-gradient(bottom, #666 0, #5e5e5e %50, #707070 51%, #808080 100%);
     color:white;
 }
 
@@ -146,7 +153,7 @@ body {
     font-family: MyriadPro-Lightr, Arial, Helvetica, sans-serif;
     flex-direction: column;
     align-items: center;
-    background: #b3d9e9 url("assets/main-screenm¡.jpg" center 700px;)
+    background: #b3d9e9 url("assets/main-screen.jpg") center 700px;
     background-size: 100%;
     grid-area: head-d;
 }
@@ -156,20 +163,20 @@ body {
 }
 
 .h-m-ver-be {
-    margin-top: 5px;
+    margin-top: 250px;
     font-weight: lighter;
     font-size: 65px;
 }
 
 .main-share {
-    margin-top: 250px;
+    margin-top: 5px;
     font-size: 2.2rem;
     font-weight: lighter;
     text-align: center;
 }
 
 .v-img {
-    margin-top: 1.8rem;
+    margin-top: 1.8em;
 }
 
 .v-img a:hover {
